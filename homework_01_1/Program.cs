@@ -24,3 +24,4 @@ else
    else
         Console.WriteLine("Числа одинаковые");
 }
+
